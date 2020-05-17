@@ -1,0 +1,8 @@
+name: AbePouches
+author: MosheTDD
+main: me.moshe.abepouches.AbePouches
+version: 1.0
+
+commands:
+  ap:
+    usage: <target> <amount>

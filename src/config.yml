@@ -1,0 +1,26 @@
+notAPlayer: '&cOnly players may execute this command!'
+noPermission: '&cYou do not have permission to execute this command!'
+illegalArguments: '&cIllegal Arguments! Please try again with the correct arguments!'
+targetNull: '&b%target%&c Is offline or they do not exist!'
+
+messages:
+  exp: '&6You got &c%newExp% &6EXP!'
+  money: '&6You got &c%newMoney% &6money!'
+
+expItem:
+  material: 'stone'
+  displayName: 'EXP Stone'
+  lore:
+    -
+
+moneyItem:
+  material: 'grass'
+  displayName: 'Money Grass'
+  lore:
+    -
+
+moneyMinAmount: 100
+moneyMaxAmount: 500
+
+expMinAmount: 20
+expMaxAmount: 30
